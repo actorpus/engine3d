@@ -14,5 +14,5 @@ run instructions;
 2) W, A, S, D, UP, DOWN
 
 helpfull testing things;
-1) in engine3d.py uncomment line 303 to have the object rotate in space
+1) in engine3d.py uncomment line 303 to have the object rotate in space (https://github.com/actorpus/engine3d/blob/ae883febbbb444c0d2234dbec68959ecdbdbcafa/engine3D.py#L303)
 2) in main.py the file name for the obj is on line 4
