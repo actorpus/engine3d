@@ -1,7 +1,7 @@
 import engine3D
 import pygame
 
-shape = engine3D.Obj.loadObj("cube.obj")
+shape = engine3D.Obj.loadObj("utah-teapot.obj")
 cam = engine3D.Camera()
 screen = pygame.display.set_mode((1000, 1000))
 renderer = engine3D.Render(screen)
